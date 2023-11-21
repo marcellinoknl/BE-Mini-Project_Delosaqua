@@ -33,7 +33,7 @@ The system enforces a 1:N relationship between farms and ponds. A pond can only 
 
 Usage statistics are tracked for each API endpoint, containing number of requests and unique clients.
 
-The system is designed with scalability and maintainability in mind. It uses a Dockerized MySQL database that can handle larger datasets as the system scales to additional farms. The Golang application also incorporates design patterns such as repository interfaces to minimize coupling.
+The system is designed with scalability and maintainability in mind. It uses a Dockerized PostgreSQL database that can handle larger datasets as the system scales to additional farms. The Golang application also incorporates design patterns such as repository interfaces to minimize coupling.
 
 ## Prerequisites
 
