@@ -3,8 +3,6 @@ This is the technical test for applying internship at Delosaqua. Create the CRUD
 
 # DELOSAQUA - Aquafarm Management Applications Prototype REST API using Go Language
 
-# Aquafarm Management Application
-
 This application provides CRUD APIs for managing farms and ponds for aquaculture/fish farms. 
 
 The system allows fish farm owners to track information about their different farms and the ponds located within each farm. Key information such as location, capacity, construction details, stocking densities, and inventory/yields can be stored for farms and associated ponds.
