@@ -78,6 +78,6 @@ The API routes are versioned:
 
 - `GET /get-stats` - Return API metrics
 
-##API Documentation
-You can access the Postman API Documentation here : 
+## API Documentation
+You can access the Postman API Documentation [here](https://documenter.getpostman.com/view/20251635/2s9YeAAZkY)
 
