@@ -79,6 +79,7 @@ The API routes are versioned:
 - `GET /get-stats` - Return API metrics
 
 ## ERD EXPLANATION
+![ERD Diagram](./images/erd.png)
 You can access this documentation too see erd explanation [here](https://docs.google.com/document/d/1wQ2gTtLcTcTx8rHRM7Jkp1LAZBGSqb1I61Qmnx-yqpU/edit?addon_store)
 
 ## API Documentation
